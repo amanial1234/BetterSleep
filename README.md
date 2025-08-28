@@ -61,6 +61,12 @@
 
 If you want to wake up at **7:00 AM**, sleep for **8 hours**, and drink **2 cups of coffee per day**, BetterRest will recommend the optimal bedtime (e.g., **10:45 PM**) so you can feel rested.
 
+
+https://github.com/user-attachments/assets/9da013b5-0aa7-44e7-8d7c-0d9be7e45d78
+
+
+
+
 ---
 
 ## 📌 Notes
